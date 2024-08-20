@@ -94,9 +94,6 @@ body, html {
         width: auto;
         height: 100%;
     }
-    .calendar {
-        width: auto;
-    }
     .orientation {
         flex-direction: row;
         gap: 50px;
