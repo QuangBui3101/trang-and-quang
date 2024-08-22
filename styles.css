@@ -88,6 +88,10 @@ body, html {
     font-weight: 600;
 }
 
+.hidden {
+    visibility: hidden;
+}
+
 
  @media screen and (min-width: 610px) {
     .banner-image {
